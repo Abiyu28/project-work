@@ -49,7 +49,6 @@
             </a>
         </div>
     </section>
-
     <!-- Feature cards -->
     <section class="max-w-6xl mx-auto px-6 pb-24 grid md:grid-cols-3 gap-6">
         <div class="p-6 rounded-2xl bg-white/5 border border-white/10">
