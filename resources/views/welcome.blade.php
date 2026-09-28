@@ -21,9 +21,6 @@
     </nav>
 
     <!-- Hero -->
-    <div x-data="{ open: false }">
-        <button @click="open = !open">Toggle</button> <div x-show="open">Konten yang muncul/hilang</div>
-    </div>
     <section class="max-w-6xl mx-auto px-6 py-24 text-center">
         <span class="inline-block px-4 py-1.5 rounded-full bg-indigo-500/10 text-indigo-400 text-xs font-semibold tracking-wide uppercase mb-6">
             Dibangun dengan Laravel & Tailwind
