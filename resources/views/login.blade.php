@@ -37,16 +37,6 @@
                                     Sign Up
                                 </span>
                             </button>
-                            <p class="mt-6 text-xs text-gray-600 text-center">
-                                I agree to abide by templatana's
-                                <a href="#" class="border-b border-gray-500 border-dotted">
-                                    Terms of Service
-                                </a>
-                                and its
-                                <a href="#" class="border-b border-gray-500 border-dotted">
-                                    Privacy Policy
-                                </a>
-                            </p>
                         </div>
                     </div>
                 </div>
